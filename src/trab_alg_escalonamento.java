@@ -18,7 +18,7 @@ public class trab_alg_escalonamento {
         int algoritimo;
 
         while(true) {
-            System.out.println("---- Escolha: ----"
+            System.out.println("---- Escolha sua opção: ----"
                     + "\n1- FCFS "
                     + "\n2- SJF Preemptivo"
                     + "\n3- SJF Nao Preemptivo"
